@@ -20,4 +20,10 @@
 <li>开发语言：python3</li>
 <li>系统： Windows/Linux/Centos7</li>
 </ul>
-
+<h2>使用说明</h2>
+<b>源码安装</b></br>
+```
+$ git clone https://github.com/dataabc/weiboSpider.git</br>
+$ cd weiboSpider</br>
+$ pip install -r requirements.txt</br>
+```
