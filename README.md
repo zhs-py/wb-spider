@@ -26,3 +26,8 @@
 	$ git clone https://github.com/546877067/wb-spider.git
 	$ cd wb-spider
 	$ pip install -r requirements.txt
+
+<b>运行程序</b></br>
+在weiboSpider目录运行如下命令</br>
+	
+	$ python3 weibo_spider.py
