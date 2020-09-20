@@ -28,6 +28,6 @@
 	$ pip install -r requirements.txt
 
 <b>运行程序</b></br>
-在weiboSpider目录运行如下命令</br>
+在wb-spider目录运行如下命令</br>
 	
 	$ python3 weibo_spider.py
