@@ -23,6 +23,6 @@
 <h2>使用说明</h2>
 <b>源码安装</b></br>
 
-	$ git clone https://github.com/dataabc/weiboSpider.git</br>
-	$ cd weiboSpider</br>
+	$ git clone https://github.com/546877067/wb-spider.git
+	$ cd wb-spider
 	$ pip install -r requirements.txt
